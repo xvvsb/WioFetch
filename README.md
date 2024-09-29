@@ -1,5 +1,6 @@
 # WioFetch
  NeoFetch for Windows
+ Executable inside "DIS" Folder!
 <img width="635" alt="cmd " src="https://github.com/user-attachments/assets/7a8cbc31-f91a-4424-a620-16b683b93a8b">
 
  What made me create WioFetch?
